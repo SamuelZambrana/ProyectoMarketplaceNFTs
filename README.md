@@ -1,5 +1,5 @@
-# ProyectoMarketplaceNFTs
-Proyecto adicional para crear un marketplace de NFTs
+# SmartContractMarketplaceNFTs
+SmartContract para crear un marketplace de NFTs
 
 # Creamos dos contratos NFT y Marketplace
 
